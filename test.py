@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import time
 
-# Screen dimensions
+# Screen dimensions -this changes is done from version-1 branch
 screen_width, screen_height = pyautogui.size()
 
 # Video settings
